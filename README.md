@@ -12,12 +12,12 @@ This project is a serverless web application built on AWS, by using cloud servic
 - **API**: AWS API Gateway
 # Deployment
 
-## [View Deployment Guide](.DEPLOYMENT.md)
+## [View Deployment Guide](./DEPLOYMENT.md)
 This file provides comprehensive steps for deploying the serverless web application on AWS. It ensures that users can successfully deploy the application in their AWS environment.
 
 # Challenges Faced
 
-## [View Challenges Encountered](.CHALLENGES.md)
+## [View Challenges Encountered](./CHALLENGES.md)
 This file outlines key challenges faced during the development of the serverless web application using AWS services. Each challenge details the error, solution, and outcome.
 
 # Future Improvements
