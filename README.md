@@ -127,6 +127,11 @@ This project is a serverless web application built on AWS, by using cloud servic
 
 S3 Hosted static website successfully invoking the API which sends data to lambda function which puts submitted data records into DynamoDB table database
 
+# Challenges Faced
+
+## [View Challenges Encountered](.CHALLENGES.md)
+This file outlines key challenges faced during the development of the serverless web application using AWS services. Each challenge details the error, solution, and outcome.
+
 # Future Improvements
 
 I will consider exploring future enhancements such as user authentication with AWS Cognito, Enhanced Validation for better client- and server-side validation to improve user experience, Frontend Framework from vanilla HTML to a modern framework like React or Vue.js for better scalability and performance and will continuously keep updating the portfolio with new projects and achievements.
