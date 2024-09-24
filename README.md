@@ -127,11 +127,11 @@ This project is a serverless web application built on AWS, by using cloud servic
 
 S3 Hosted static website successfully invoking the API which sends data to lambda function which puts submitted data records into DynamoDB table database
 
-### Future Improvements
+# Future Improvements
 
 I will consider exploring future enhancements such as user authentication with AWS Cognito, Enhanced Validation for better client- and server-side validation to improve user experience, Frontend Framework from vanilla HTML to a modern framework like React or Vue.js for better scalability and performance and will continuously keep updating the portfolio with new projects and achievements.
 
-### Conclusion
+# Conclusion
 
 This serverless web application demonstrates the power and flexibility of AWS services such as S3, API Gateway, Lambda, and DynamoDB to build scalable and efficient web applications without server management. By utilizing a serverless architecture, the project ensures cost-effectiveness, scalability, and ease of maintenance. The application successfully enables users to form submissions and store dynamic data. This project serves as a robust example of leveraging cloud technology to build modern, scalable, and cost-efficient web solutions.
 
