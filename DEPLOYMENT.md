@@ -1,4 +1,4 @@
-# This is a step by step Deployment Guide
+# This is a Step by Step Deployment Guide
 
 ## Step 1: S3 Bucket Creation
 
