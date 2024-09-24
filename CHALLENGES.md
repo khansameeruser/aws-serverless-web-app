@@ -1,4 +1,5 @@
 # Challenges Faced
+This file outlines key challenges faced during the development of the serverless web application using AWS services. Each challenge details the error, solution, and outcome.
 
 ## CHALLENGE 01: Website Access Permission Issue on S3 Static Website Hosting
 
