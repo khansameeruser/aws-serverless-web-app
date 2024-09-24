@@ -4,6 +4,7 @@ https://docs.google.com/document/d/1vNNRykGt3B1XoaifaYFZ0CgXzy82Ldq37QuhTyrWJXk/
 # Introduction
 This project is a serverless web application built on AWS, by using cloud services to provide a scalable and cost-efficient solution. The application uses Amazon S3 for static website hosting,a website which collects basic user information as a form submission. The form’s HTML code invokes AWS API Gateway which sends structured event to Lambda function which puts the data into DynamoDB table. This architecture demonstrates the power of serverless computing, reducing operational complexity and scaling automatically with user demand
 # Architecture
+![ss](https://github.com/user-attachments/assets/f66cf49d-8b18-479e-a9cc-d95ded1aa3fd)
 # Tech Stack
 - **Frontend**: HTML (hosted on S3)
 - **Backend**: AWS Lambda (Node.js)
