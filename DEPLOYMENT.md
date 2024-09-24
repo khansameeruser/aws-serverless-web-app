@@ -1,5 +1,7 @@
 # This is a Step by Step Deployment Guide
 
+This file provides comprehensive steps for deploying the serverless web application on AWS. It ensures that users can successfully deploy the application in their AWS environment.
+
 ## Step 1: S3 Bucket Creation
 
 - **S3 Bucket:**
